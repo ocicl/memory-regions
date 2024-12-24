@@ -4,6 +4,6 @@ This library implements the concept of a "memory region" along with several usef
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/memory-regions.git |
-| commit  | 04dd8a5                                            |
+| commit  | a4004ab                                            |
 | systems | memory-regions                                     |
 |---------+----------------------------------------------------|
