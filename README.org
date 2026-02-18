@@ -3,7 +3,7 @@
 This library implements the concept of a "memory region" along with several useful tools to deal with them
 
 |---------+----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/memory-regions.git |
-| commit  | 3c327a2                                            |
+| source  | git:https://codeberg.org/shinmera/memory-regions.git |
+| commit  | 0000000                                            |
 | systems | memory-regions                                     |
 |---------+----------------------------------------------------|
